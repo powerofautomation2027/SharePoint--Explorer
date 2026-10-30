@@ -2,6 +2,10 @@
 
 # ⚡ PNC SharePoint Team — Explorer
 
+https://github.com/user-attachments/assets/c0e1658c-5311-4447-be73-c526685d0ae9
+
+
+
 ### Connect **any SharePoint list or library** with one click — dashboards, approvals, e-mail and an **AI assistant** that talks to your **Copilot Studio agents** (classic *and* new experience).
 
 ![Power Apps code app](https://img.shields.io/badge/Power%20Apps-Code%20App-742774?logo=powerapps&logoColor=white)
