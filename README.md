@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PNC SharePoint Team — Explorer
+# SharePoint  — Explorer
 
 https://github.com/user-attachments/assets/c0e1658c-5311-4447-be73-c526685d0ae9
 
